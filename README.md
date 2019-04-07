@@ -1,4 +1,4 @@
 # Python-smtplib-attachments
-smtplib with attachments example
+Sending a mail with attachment to multiple acoounts.
 
 Run: python3 gmail.py
